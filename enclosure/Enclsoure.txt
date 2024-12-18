@@ -1,2 +1,0 @@
-This folder contains the individual part files for the enclosure design using SolidWorks.
-
