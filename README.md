@@ -1,7 +1,4 @@
 # Analog-electronics-project
-### GitHub Page Content for Automatic Solar Tracker Project
-
----
 
 # Automatic Solar Tracker
 
@@ -36,7 +33,8 @@ The system incorporates:
 
 ### Block Diagram
 
-_Include an image of the block diagram here._
+
+![block diagram](https://github.com/user-attachments/assets/2c3c2ce4-9e5a-419a-b204-1c146377f358)
 
 The system architecture consists of sunlight sensors, a PID controller, motor control circuitry, and a robust enclosure.
 
@@ -50,18 +48,28 @@ The system architecture consists of sunlight sensors, a PID controller, motor co
 
 Multisim simulations validated the functionality of the PID controller and PWM generation. Real-world testing confirmed enhanced solar energy capture.
 
-_Include images of simulation outputs and testing here._
+![square waveform](https://github.com/user-attachments/assets/f2b3a557-993f-4770-802c-34736111e255)
+ ![triangular waveform](https://github.com/user-attachments/assets/96d8f53c-e76c-45a4-beef-a2565c23d5b0)![PWM signal](https://github.com/user-attachments/assets/e569ed30-8205-4bb9-af19-55fac89da6b5)
+
 
 ---
 
 ## 🖼️ Project Images
 
 1. **System Prototype**
-   _Insert a picture of the completed prototype._
+   ![final_product](https://github.com/user-attachments/assets/1e0297f5-0b4b-425c-8695-d4452fc2bd68)
+
 2. **PCB Design**
-   _Insert an image of the PCB layout._
-3. **Enclosure**
-   _Insert an image showing the enclosure design._
+   ![PCB Schematic](https://github.com/user-attachments/assets/c9c3af36-9f07-4afc-9763-69aa8f4a52f6)
+
+   ![3D layout](https://github.com/user-attachments/assets/4a6032be-3c6b-468c-8eef-86c98e8ce1d6)
+
+ ![top layer](https://github.com/user-attachments/assets/9bdabce6-73c3-45c3-965d-e9513e4b9cd7)
+
+![bottom layer](https://github.com/user-attachments/assets/94a464ba-6ec2-4b7e-8b50-5c37dafc8785)
+
+4. **Enclosure**
+![final assembly](https://github.com/user-attachments/assets/235c5e0d-d8f8-4e9b-8930-e876f932195d)
 
 ---
 
@@ -77,8 +85,8 @@ _Include images of simulation outputs and testing here._
 ## 🔧 Assembly
 
 The assembly involves integrating electronic components onto a compact PCB, crafting the enclosure, and configuring the system for dynamic solar tracking.
+![final assembly](https://github.com/user-attachments/assets/efc6c952-43a4-444c-a74f-858255f2c839)
 
-_Include step-by-step assembly images here._
 
 ---
 
@@ -96,12 +104,4 @@ We thank the Department of Electronic & Telecommunication Engineering at the Uni
 
 ---
 
-## 📂 Repository Structure
 
-- **/docs:** Project documentation and reports.
-- **/code:** Firmware and simulation files.
-- **/images:** Visual resources related to the project.
-
----
-
-Feel free to explore the repository and contribute to this exciting journey towards sustainable energy optimization! 🌞
