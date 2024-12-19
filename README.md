@@ -67,19 +67,21 @@ Multisim simulations validated the functionality of the PID controller and PWM g
 
 2. **PCB Design**
 
-![schematic](https://github.com/user-attachments/assets/b233b9ca-d73d-46f9-b074-293748796eea)
-![top](https://github.com/user-attachments/assets/f9da1cc3-3187-4331-a3df-2279a540527c)
-![bottom](https://github.com/user-attachments/assets/64788070-0f3b-46a8-9334-4b4ba509182e)
-![3d](https://github.com/user-attachments/assets/550e6339-fa14-4ae6-874f-b8eed396f190)
+
+![PCB Schematic](https://github.com/user-attachments/assets/b233b9ca-d73d-46f9-b074-293748796eea)
+
+3D layout
+![Screenshot 2024-12-17 223625](https://github.com/user-attachments/assets/f4833c39-6272-4f3d-905c-cbf0b604e507)
 
 
-![PCB Schematic](https://github.com/user-attachments/assets/c9c3af36-9f07-4afc-9763-69aa8f4a52f6)
 
-![3D layout](https://github.com/user-attachments/assets/4a6032be-3c6b-468c-8eef-86c98e8ce1d6)
+top layer
+![Screenshot 2024-12-17 223343](https://github.com/user-attachments/assets/5330f9e0-922c-413b-a3ca-74064b104028)
 
-![top layer]([https://github.com/user-attachments/assets/9bdabce6-73c3-45c3-965d-e9513e4b9cd7](https://github.com/Demitha-Manawadu/Automatic-Solar-Tracker-Analog-electronics-project/blob/main/PCB%20design/images/top%20layer.png))
 
-![bottom layer](https://github.com/user-attachments/assets/94a464ba-6ec2-4b7e-8b50-5c37dafc8785)
+bottom layer
+![Screenshot 2024-12-17 223431](https://github.com/user-attachments/assets/789ed12f-f18b-4503-85fc-a29931baa3e0)
+
 
 4. **Enclosure**
 
