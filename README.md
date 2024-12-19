@@ -44,6 +44,10 @@ The system architecture consists of sunlight sensors, a PID controller, motor co
 - **PWM Generation:** Controls motor speed to correct panel orientation.
 - **Motor Driver Circuit:** Drives the motors responsible for panel adjustments.
 
+### Breadboard Implementation
+![breadboard](https://github.com/user-attachments/assets/87787f1e-07e4-4d6c-b4c4-04740c24582d)
+
+
 ### Simulation and Testing
 
 Multisim simulations validated the functionality of the PID controller and PWM generation. Real-world testing confirmed enhanced solar energy capture.
