@@ -62,7 +62,9 @@ Multisim simulations validated the functionality of the PID controller and PWM g
    ![final_product](https://github.com/user-attachments/assets/1e0297f5-0b4b-425c-8695-d4452fc2bd68)
 
 2. **PCB Design**
-   
+
+   ![schematic](https://github.com/user-attachments/assets/b233b9ca-d73d-46f9-b074-293748796eea)
+
 ![PCB Schematic](https://github.com/user-attachments/assets/c9c3af36-9f07-4afc-9763-69aa8f4a52f6)
 
 ![3D layout](https://github.com/user-attachments/assets/4a6032be-3c6b-468c-8eef-86c98e8ce1d6)
