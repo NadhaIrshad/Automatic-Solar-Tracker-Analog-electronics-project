@@ -77,7 +77,7 @@ Multisim simulations validated the functionality of the PID controller and PWM g
 
 ![3D layout](https://github.com/user-attachments/assets/4a6032be-3c6b-468c-8eef-86c98e8ce1d6)
 
-![top layer](https://github.com/user-attachments/assets/9bdabce6-73c3-45c3-965d-e9513e4b9cd7)
+![top layer]([https://github.com/user-attachments/assets/9bdabce6-73c3-45c3-965d-e9513e4b9cd7](https://github.com/Demitha-Manawadu/Automatic-Solar-Tracker-Analog-electronics-project/blob/main/PCB%20design/images/top%20layer.png))
 
 ![bottom layer](https://github.com/user-attachments/assets/94a464ba-6ec2-4b7e-8b50-5c37dafc8785)
 
