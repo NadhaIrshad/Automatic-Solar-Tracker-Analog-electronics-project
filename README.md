@@ -33,8 +33,8 @@ The system incorporates:
 
 ### Block Diagram
 
+![block_diagram](https://github.com/user-attachments/assets/e5f288f8-3901-424d-bf05-749a752ea1ea)
 
-![block diagram](https://github.com/user-attachments/assets/2c3c2ce4-9e5a-419a-b204-1c146377f358)
 
 The system architecture consists of sunlight sensors, a PID controller, motor control circuitry, and a robust enclosure.
 
@@ -51,11 +51,11 @@ The system architecture consists of sunlight sensors, a PID controller, motor co
 ### Simulation and Testing
 
 Multisim simulations validated the functionality of the PID controller and PWM generation. Real-world testing confirmed enhanced solar energy capture.
+![square_simulation](https://github.com/user-attachments/assets/19989e0b-d9f7-420d-bd82-9f2da7dec5be)
+![triangle_simulation](https://github.com/user-attachments/assets/afdabe41-1255-480c-a757-4b6a5441154b)
 
+![PWM_simulation](https://github.com/user-attachments/assets/e9753e81-cea0-4660-93a0-3859b7b5abd8)
 
-![square waveform](https://github.com/user-attachments/assets/f2b3a557-993f-4770-802c-34736111e255)
-![triangular waveform](https://github.com/user-attachments/assets/96d8f53c-e76c-45a4-beef-a2565c23d5b0)
-![PWM signal](https://github.com/user-attachments/assets/e569ed30-8205-4bb9-af19-55fac89da6b5)
 
 
 ---
@@ -67,19 +67,19 @@ Multisim simulations validated the functionality of the PID controller and PWM g
 
 2. **PCB Design**
 
-
+- Schematic:  
 ![PCB Schematic](https://github.com/user-attachments/assets/b233b9ca-d73d-46f9-b074-293748796eea)
 
-3D layout
+-3D layout:
 ![Screenshot 2024-12-17 223625](https://github.com/user-attachments/assets/f4833c39-6272-4f3d-905c-cbf0b604e507)
 
 
 
-top layer
+-top layer:
 ![Screenshot 2024-12-17 223343](https://github.com/user-attachments/assets/5330f9e0-922c-413b-a3ca-74064b104028)
 
 
-bottom layer
+-bottom layer:
 ![Screenshot 2024-12-17 223431](https://github.com/user-attachments/assets/789ed12f-f18b-4503-85fc-a29931baa3e0)
 
 
@@ -113,6 +113,9 @@ The assembly involves integrating electronic components onto a compact PCB, craf
 3. Integration with IoT for remote monitoring and control.
 
 ---
+
+## 🎥 Project Video
+Watch our detailed walkthrough of the Automatic Solar Tracker in action: https://youtu.be/nHiQHz7_xqY?si=oewumcQw3HjwGN45 
 
 ## 🤝 Acknowledgments
 
