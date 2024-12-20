@@ -51,9 +51,11 @@ The system architecture consists of sunlight sensors, a PID controller, motor co
 ### Simulation and Testing
 
 Multisim simulations validated the functionality of the PID controller and PWM generation. Real-world testing confirmed enhanced solar energy capture.
+- Square wave:
 ![square_simulation](https://github.com/user-attachments/assets/19989e0b-d9f7-420d-bd82-9f2da7dec5be)
+- Rectified triangular wave:
 ![triangle_simulation](https://github.com/user-attachments/assets/afdabe41-1255-480c-a757-4b6a5441154b)
-
+- PWM signal:
 ![PWM_simulation](https://github.com/user-attachments/assets/e9753e81-cea0-4660-93a0-3859b7b5abd8)
 
 
@@ -69,17 +71,11 @@ Multisim simulations validated the functionality of the PID controller and PWM g
 
 - Schematic:  
 ![PCB Schematic](https://github.com/user-attachments/assets/b233b9ca-d73d-46f9-b074-293748796eea)
-
-- 3D layout:
+- 3D Layout:
 ![Screenshot 2024-12-17 223625](https://github.com/user-attachments/assets/f4833c39-6272-4f3d-905c-cbf0b604e507)
-
-
-
-- top layer:
+- Top Layer:
 ![Screenshot 2024-12-17 223343](https://github.com/user-attachments/assets/5330f9e0-922c-413b-a3ca-74064b104028)
-
-
-- bottom layer:
+- Bottom Layer:
 ![Screenshot 2024-12-17 223431](https://github.com/user-attachments/assets/789ed12f-f18b-4503-85fc-a29931baa3e0)
 
 
