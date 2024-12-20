@@ -51,7 +51,7 @@ The system architecture consists of sunlight sensors, a PID controller, motor co
 ### Simulation and Testing
 
 Multisim simulations validated the functionality of the PID controller and PWM generation. Real-world testing confirmed enhanced solar energy capture.
-- Square wave:
+- Square wave and Triangular wave:
 ![square_simulation](https://github.com/user-attachments/assets/19989e0b-d9f7-420d-bd82-9f2da7dec5be)
 - Rectified triangular wave:
 ![triangle_simulation](https://github.com/user-attachments/assets/afdabe41-1255-480c-a757-4b6a5441154b)
